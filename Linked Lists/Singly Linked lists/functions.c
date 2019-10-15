@@ -30,7 +30,7 @@ node * add_element(node *ll, int n)
 }
 }
 
-node * insert(node *lll, int n)
+node * priority_insert(node *lll, int n)
 {
 	if (lll == NULL)									
 	{													
