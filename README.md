@@ -1,2 +1,2 @@
-# Data-Structures-Project
-This is the official repository for the Data Structures Project - 2019
+# Competitive Programming Library Functions
+This is the official repository for the Competitive Programming Library Functions Project - 2019
