@@ -3,5 +3,5 @@ This is the official repository for the Competitive Programming Library Function
 
 To contribute, check out the issues page for open issues.
 
-***Please submit your programs in C only*** as this is supposed to be a C library for competitive coding.
+***Please submit your programs in C only*** as this is supposed to be a C/C++ library for competitive coding.
 
