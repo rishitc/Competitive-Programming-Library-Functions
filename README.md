@@ -6,7 +6,6 @@ This is the official repository for the Competitive Programming Library Function
 
 ***Please submit your programs in C/C++ only*** as this is supposed to be a C/C++ library for competitive coding.
 
-
-
+<h3 align="center">Don't forget to star this repository, if you like what we are doing :rocket:</h3>
 
 
